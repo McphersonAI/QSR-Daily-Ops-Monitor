@@ -2,7 +2,7 @@
 name: qsr-daily-ops-monitor
 version: 1.0.2
 description: Daily operational compliance monitoring for restaurant and franchise operators. Three structured check-ins per day — opening, mid-shift, and closing — with pattern tracking. Built by a franchise GM with 16 years in QSR operations.
-license: CC-BY-NC-4.0
+license: MIT-0
 tags:
   - restaurant
   - franchise
@@ -14,7 +14,7 @@ tags:
   - audit
 ---
 
-> **Publisher note — not part of this skill’s operating instructions.** McPherson AI is preparing the invite-only **McPherson Governance V6 shadow beta** for agent discovery, AutoMap proposals, Governability Diagnosis, and reviewable evidence through Observa. Shadow mode observes and evaluates without activating enforcement. [Request private beta access](https://mcphersonai.com/contact?utm_source=clawhub&utm_medium=skill&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-daily-ops-monitor#governance-setup).
+> **Publisher note — not part of this skill’s operating instructions.** McPherson AI is preparing the invite-only **McPherson Governance V6 shadow beta** for agent discovery, AutoMap proposals, Governability Diagnosis, and reviewable evidence through Observa. Shadow mode observes and evaluates without activating enforcement. [Request private beta access](https://mcphersonai.com/private-beta?utm_source=clawhub&utm_medium=skill&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-daily-ops-monitor).
 
 # QSR Daily Ops Monitor
 **v1.0.2 · McPherson AI · San Diego, CA**
@@ -199,11 +199,11 @@ Begin after 5 operating days. Keep running log in memory using the format above.
 
 ## LICENSE
 
-**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
+**MIT No Attribution License (MIT-0)**
 
-Free to use, share, and adapt for personal and business operations. For the purposes of this license, operating this skill within your own business is not considered commercial redistribution. Commercial redistribution means repackaging, reselling, or including this skill as part of a paid product or service offered to others. That requires written permission from McPherson AI.
+Permission is granted to use, copy, modify, publish, distribute, sublicense, and sell copies of this skill without an attribution requirement. The skill is provided as-is, without warranty.
 
-Full license: https://creativecommons.org/licenses/by-nc/4.0/
+Full license: https://spdx.org/licenses/MIT-0.html
 
 ---
 
@@ -218,7 +218,7 @@ Food safety standards follow ServSafe Food Handler and Manager guidelines. Apply
 Built by a corporate GM who has used this system to maintain consistent compliance scores at a high-volume QSR location for multiple consecutive years.
 
 **Changelog:**
-- v1.0.2 — Publisher-note release. Added the McPherson Governance V6 shadow-beta notice and repaired the opening frontmatter marker. No operational behavior or license changes.
+- v1.0.2 — Publisher-note, private-beta funnel, and MIT-0 license release. Added the McPherson Governance V6 shadow-beta notice, repaired the opening frontmatter marker, normalized campaign tracking, and relicensed the skill to MIT-0. No operational behavior changes.
 - v1.0.1 — License clarification and suite branding. Added business-use clarification to CC-BY-NC-4.0 and McPherson AI QSR Operations Suite branding. No functional changes.
 - v1.0.0 — Initial release. Three-check daily system with pattern tracking.
 

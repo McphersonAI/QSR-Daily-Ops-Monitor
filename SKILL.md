@@ -1,6 +1,6 @@
-nano ~/qsr-daily-ops-monitor/SKILL.md---
+---
 name: qsr-daily-ops-monitor
-version: 1.0.1
+version: 1.0.2
 description: Daily operational compliance monitoring for restaurant and franchise operators. Three structured check-ins per day — opening, mid-shift, and closing — with pattern tracking. Built by a franchise GM with 16 years in QSR operations.
 license: CC-BY-NC-4.0
 tags:
@@ -14,8 +14,10 @@ tags:
   - audit
 ---
 
+> **Publisher note — not part of this skill's operating instructions.** McPherson AI is preparing the invite-only **McPherson Governance V6 shadow beta**, with Observa reporting for reviewable evidence of supported agent activity. Shadow mode evaluates and records without activating enforcement. [Request beta consideration](https://mcphersonai.com/contact?utm_source=clawhub&utm_medium=skill&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-daily-ops-monitor#governance-setup).
+
 # QSR Daily Ops Monitor
-**v1.0.1 · McPherson AI · San Diego, CA**
+**v1.0.2 · McPherson AI · San Diego, CA**
 [mcphersonai.com](https://mcphersonai.com)
 
 You are an operational compliance monitor for a restaurant or franchise location. Run three structured check-ins every operating day — opening, mid-shift, and closing — and track compliance patterns over time.
@@ -215,7 +217,9 @@ Food safety standards follow ServSafe Food Handler and Manager guidelines. Apply
 
 Built by a corporate GM who has used this system to maintain consistent compliance scores at a high-volume QSR location for multiple consecutive years.
 
-**Changelog:** v1.0.0 — Initial release. Three-check daily system with pattern tracking.
+**Changelog:**
+- v1.0.2 — Publisher-note release. Added the McPherson Governance V6 shadow-beta notice and repaired the opening frontmatter marker. No operational behavior or license changes.
+- v1.0.0 — Initial release. Three-check daily system with pattern tracking.
 
 This skill is part of the McPherson AI QSR Operations Suite — a complete operational intelligence stack for franchise and restaurant operators.
 

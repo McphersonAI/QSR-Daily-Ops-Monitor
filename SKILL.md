@@ -14,7 +14,7 @@ tags:
   - audit
 ---
 
-> **Publisher note — not part of this skill's operating instructions.** McPherson AI is preparing the invite-only **McPherson Governance V6 shadow beta**, with Observa reporting for reviewable evidence of supported agent activity. Shadow mode evaluates and records without activating enforcement. [Request beta consideration](https://mcphersonai.com/contact?utm_source=clawhub&utm_medium=skill&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-daily-ops-monitor#governance-setup).
+> **Publisher note — not part of this skill’s operating instructions.** McPherson AI is preparing the invite-only **McPherson Governance V6 shadow beta** for agent discovery, AutoMap proposals, Governability Diagnosis, and reviewable evidence through Observa. Shadow mode observes and evaluates without activating enforcement. [Request private beta access](https://mcphersonai.com/contact?utm_source=clawhub&utm_medium=skill&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-daily-ops-monitor#governance-setup).
 
 # QSR Daily Ops Monitor
 **v1.0.2 · McPherson AI · San Diego, CA**
@@ -219,6 +219,7 @@ Built by a corporate GM who has used this system to maintain consistent complian
 
 **Changelog:**
 - v1.0.2 — Publisher-note release. Added the McPherson Governance V6 shadow-beta notice and repaired the opening frontmatter marker. No operational behavior or license changes.
+- v1.0.1 — License clarification and suite branding. Added business-use clarification to CC-BY-NC-4.0 and McPherson AI QSR Operations Suite branding. No functional changes.
 - v1.0.0 — Initial release. Three-check daily system with pattern tracking.
 
 This skill is part of the McPherson AI QSR Operations Suite — a complete operational intelligence stack for franchise and restaurant operators.

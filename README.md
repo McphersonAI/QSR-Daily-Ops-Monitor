@@ -124,16 +124,12 @@ It fits alongside skills focused on:
 
 ## License
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license with an operational-use clarification.
+This project is licensed under the **MIT No Attribution License (MIT-0)**.
 
 See the [LICENSE](LICENSE) file for full details.
 
 ### Plain-English Summary
-You are free to use, adapt, and share this skill for personal use and internal business operations.
-
-You may not commercially redistribute it by reselling, repackaging, sublicensing, or offering it as a paid competing product without permission.
-
-Operating this skill inside your own restaurant, franchise group, or business is allowed under this license clarification.
+You may use, copy, modify, publish, distribute, sublicense, and sell copies of this skill without an attribution requirement. The skill is provided as-is, without warranty.
 
 ---
 
@@ -150,7 +146,7 @@ Builder of practical AI systems for restaurant operations, execution discipline,
 ## Version
 
 **v1.0.2**
-Publisher-note release; operational behavior and license unchanged.
+Publisher-note, private-beta funnel, and MIT-0 license release; operational behavior unchanged.
 
 **v1.0.1**
 License clarification and suite branding; no functional changes.
@@ -166,6 +162,6 @@ McPherson AI is preparing an invite-only V6 beta for OpenClaw operators and buil
 
 Shadow mode observes and evaluates activity without blocking, approving, denying, delaying, or rewriting actions.
 
-[Request private beta access](https://mcphersonai.com/contact?utm_source=github&utm_medium=skill-readme&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-daily-ops-monitor#governance-setup)
+[Request private beta access](https://mcphersonai.com/private-beta?utm_source=github&utm_medium=skill-readme&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-daily-ops-monitor)
 
-*This publisher notice does not change this skill’s behavior, data handling, or license.*
+*This publisher notice does not change this skill’s behavior or data handling.*

@@ -1,6 +1,6 @@
 ---
 name: qsr-daily-ops-monitor
-version: 1.0.3
+version: 1.0.4
 description: Daily operational compliance monitoring for restaurant and franchise operators. Three structured check-ins per day — opening, mid-shift, and closing — with pattern tracking. Built by a franchise GM with 16 years in QSR operations.
 license: CC-BY-NC-4.0
 tags:
@@ -14,10 +14,16 @@ tags:
   - audit
 ---
 
-> **Publisher note - not part of this skill’s operating instructions.** Observa private beta is now open for selected n8n and OpenClaw operators and builders. Observa starts in SHADOW mode, mapping agent capabilities, capturing reviewable governance evidence, and independently verifying supported workflow outcomes without taking production control. Running real n8n or OpenClaw workflows? [Request private beta access](https://mcphersonai.com/private-beta?utm_source=clawhub&utm_medium=skill&utm_campaign=observa-private-beta&utm_content=qsr-daily-ops-monitor).
+## Building with AI agents? Get started with Observa
+
+See observed runtime activity, review what governance WOULD have done in SHADOW mode, and preserve the evidence behind it across OpenClaw and supported n8n workflows.
+
+[**Get started with Observa →**](https://mcphersonai.com/observa/getting-started?utm_source=clawhub&utm_medium=skill&utm_campaign=observa-getting-started&utm_content=qsr-daily-ops-monitor)
+
+*SHADOW ONLY · AUTHORITY NONE · ENFORCEMENT OFF. Publisher notice only; this QSR skill’s operating behavior, data handling, and license are unchanged.*
 
 # QSR Daily Ops Monitor
-**v1.0.3 · McPherson AI · San Diego, CA**
+**v1.0.4 · McPherson AI · San Diego, CA**
 [mcphersonai.com](https://mcphersonai.com)
 
 You are an operational compliance monitor for a restaurant or franchise location. Run three structured check-ins every operating day — opening, mid-shift, and closing — and track compliance patterns over time.
@@ -218,6 +224,7 @@ Food safety standards follow ServSafe Food Handler and Manager guidelines. Apply
 Built by a corporate GM who has used this system to maintain consistent compliance scores at a high-volume QSR location for multiple consecutive years.
 
 **Changelog:**
+- v1.0.4 - Publisher-notice refresh: Observa CTA updated to the current Getting Started flow. No functional changes.
 - v1.0.3 - Publisher-note release. Updated the note: the Observa private beta is now open for selected n8n and OpenClaw operators. No operational behavior or license changes.
 - v1.0.2 — Publisher-note release. Added the McPherson Governance V6 shadow-beta notice and repaired the opening frontmatter marker. No operational behavior or license changes.
 - v1.0.1 — License clarification and suite branding. Added business-use clarification to CC-BY-NC-4.0 and McPherson AI QSR Operations Suite branding. No functional changes.
